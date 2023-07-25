@@ -5,8 +5,8 @@ Projeto desenvolvido para fixar os conceitos de SOLID do curso de JavaScript e T
 ### Configurações:
 
 - Instale e configure o Node.js
-- Npm install
-- Npx ts-node caminho/arquivo.ts
+- npm install
+- npx ts-node caminho/arquivo.ts
 
 Para mais detalhes entre em contato.
 
